@@ -5,6 +5,6 @@
 
 ## Repositorio con las soluciones de las evaluaciones del curso
 
-**Estudiante:** X
+**Estudiante:** Wilmer David Jiménez Díaz
 
-**email:** x@upb.edu.co
+**email:** wilmer.jimenez@upb.edu.co
